@@ -1,6 +1,6 @@
 # Basic C++: Constructors and Destructors
 
-This example explains how to declare constructors and destructors.
+This example explains how to declare and use constructors and destructors.
 It also covers many of the nuances involved in creating and destroying objects.
 
 # Setup
