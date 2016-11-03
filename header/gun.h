@@ -19,7 +19,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
 #pragma once        // Prevents the compiler from reading this file twice.
-#include <string>   // Part of the standard library, allows the use of strings.
 
 // This is a struct declaration.
 struct Magazine
