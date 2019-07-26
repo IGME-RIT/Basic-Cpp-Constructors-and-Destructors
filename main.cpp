@@ -23,7 +23,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 using namespace std;
 
 // Main will include the character header, which allows it to call character functions.
-#include "../header/gun.h"
+#include "gun.h"
 
 int main() 
 {
